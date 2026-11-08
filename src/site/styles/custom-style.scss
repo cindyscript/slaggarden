@@ -159,10 +159,10 @@ html body main.content blockquote :where(p, li) {
 html body,
 html body.theme-light,
 html body.theme-dark {
-  --font-text: "Lora", Georgia, "Times New Roman", serif;
-  --font-text-theme: "Lora", Georgia, "Times New Roman", serif;
-  --font-interface: "Inter", system-ui, -apple-system, sans-serif;
-  --font-monospace: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --font-text: "Jacquard 12", "Roboto Mono", Georgia, "Times New Roman", serif;
+  --font-text-theme: "Jacquard 12", "Roboto Mono", Georgia, "Times New Roman", serif;
+  --font-interface: "Jacquard 12", system-ui, -apple-system, serif;
+  --font-monospace: ui-monospace, "Roboto Mono", Menlo, Consolas, monospace;
 }
 
 html body main.content,
