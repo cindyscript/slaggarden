@@ -93,6 +93,12 @@ th {
   background: var(--background-secondary);
 }
 
+.container {
+    grid-template-columns: minmax(0, 1fr) 250px !important; 
+}
+
+  
+
 .filetree-sidebar {
   display: none !important;
 }
