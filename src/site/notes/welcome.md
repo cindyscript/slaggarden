@@ -8,7 +8,7 @@ Check out more of my about me.
 meaning of *slag garden*
 a pile of rubble, /
 left in disrepair /
-yet it is something i worship /
+yet it is something i cherish
 
 
 
