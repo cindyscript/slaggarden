@@ -160,8 +160,8 @@ html body main.content blockquote :where(p, li) {
 html body,
 html body.theme-light,
 html body.theme-dark {
-  --font-heading: "Lora", Georgia, "Times New Roman", serif;
-  --font-monospace: "Your Font Name", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --font-heading: "Jacquard 12", Georgia, "Times New Roman", serif;
+  --font-monospace: "Roboto Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
   --font-text: var(--font-monospace);
   --font-text-theme: var(--font-monospace);
   --font-interface: "Inter", system-ui, -apple-system, sans-serif;
