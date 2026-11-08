@@ -1,3 +1,7 @@
+/* Fonts: swap the names here and in the --font-* variables below */
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
 /* Palette: 364652 · 071108 · bfb1c1 · b5bec6 · c7dbe6 */
 
 :root,
@@ -122,4 +126,58 @@ html body .backlink-card {
 
 html body .backlink-title {
   color: var(--text-muted);
+}
+
+/* ---- Font colors ---- */
+
+html body,
+html body.theme-light,
+html body.theme-dark {
+  --h1-color: var(--text-normal);
+  --h2-color: var(--text-normal);
+  --h3-color: var(--text-normal);
+  --h4-color: var(--text-normal);
+  --h5-color: var(--text-normal);
+  --h6-color: var(--text-normal);
+  --bold-color: var(--text-normal);
+  --italic-color: var(--text-normal);
+  --blockquote-color: var(--text-muted);
+  --list-marker-color: var(--text-muted);
+  --code-normal: var(--text-normal);
+}
+
+html body main.content :where(p, li, td, th, dt, dd, strong, em, h1, h2, h3, h4, h5, h6) {
+  color: var(--text-normal) !important;
+}
+
+html body main.content blockquote :where(p, li) {
+  color: var(--text-muted) !important;
+}
+
+/* ---- Fonts ---- */
+
+html body,
+html body.theme-light,
+html body.theme-dark {
+  --font-text: "Lora", Georgia, "Times New Roman", serif;
+  --font-text-theme: "Lora", Georgia, "Times New Roman", serif;
+  --font-interface: "Inter", system-ui, -apple-system, sans-serif;
+  --font-monospace: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+
+html body main.content,
+html body main.content :where(p, li, td, th, dt, dd, strong, em, h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-text) !important;
+}
+
+html body .navbar,
+html body .search-button,
+html body a.tag,
+html body .backlink-title {
+  font-family: var(--font-interface);
+}
+
+html body code,
+html body pre {
+  font-family: var(--font-monospace);
 }
