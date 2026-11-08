@@ -31,6 +31,12 @@ body.theme-dark {
   --text-accent-hover: var(--pale-blue);
   --interactive-accent: var(--mauve);
 }
+
+[class*="filetree"],
+[class*="sidebar"],
+[class*="navbar"] {
+  background: transparent !important;
+  border: none !important;
  
 body {
   background-color: var(--background-primary);
