@@ -1,9 +1,90 @@
-body {
-    background-color: white;
-    .content {
-        font-size: 14px;
-    }
-    h1 {
-    color: black;
-     }
+  /* #364652 slate | #071108 near-black | #bfb1c1 mauve | #b5bec6 grey-blue | #c7dbe6 pale blue */
+ 
+:root {
+  --slate: #364652;
+  --ink: #071108;
+  --mauve: #bfb1c1;
+  --grey-blue: #b5bec6;
+  --pale-blue: #c7dbe6;
 }
+ 
+/* Light mode */
+body.theme-light {
+  --background-primary: var(--pale-blue);
+  --background-secondary: var(--grey-blue);
+  --background-modifier-border: var(--mauve);
+  --text-normal: var(--ink);
+  --text-muted: var(--slate);
+  --text-accent: var(--slate);
+  --text-accent-hover: var(--ink);
+  --interactive-accent: var(--slate);
+}
+ 
+/* Dark mode */
+body.theme-dark {
+  --background-primary: var(--ink);
+  --background-secondary: var(--slate);
+  --background-modifier-border: var(--slate);
+  --text-normal: var(--pale-blue);
+  --text-muted: var(--grey-blue);
+  --text-accent: var(--mauve);
+  --text-accent-hover: var(--pale-blue);
+  --interactive-accent: var(--mauve);
+}
+ 
+body {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+  line-height: 1.7;
+}
+ 
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-accent);
+  font-weight: 600;
+}
+ 
+/* Links */
+a {
+  color: var(--text-accent);
+  text-decoration: underline;
+  text-decoration-color: var(--mauve);
+  text-underline-offset: 3px;
+}
+ 
+a:hover {
+  color: var(--text-accent-hover);
+  text-decoration-color: currentColor;
+}
+ 
+/* Quotes and code */
+blockquote {
+  background: var(--background-secondary);
+  border-left: 3px solid var(--mauve);
+  padding: 0.5em 1em;
+  border-radius: 4px;
+}
+ 
+code,
+pre {
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  border-radius: 4px;
+}
+ 
+hr {
+  border: none;
+  border-top: 1px solid var(--background-modifier-border);
+}
+ 
+/* Tables */
+th, td {
+  border: 1px solid var(--background-modifier-border);
+  padding: 0.4em 0.8em;
+}
+ 
+th {
+  background: var(--background-secondary);
+}
+ 
+Claude finished the response
