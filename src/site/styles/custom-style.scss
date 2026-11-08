@@ -154,23 +154,38 @@ html body main.content blockquote :where(p, li) {
   color: var(--text-muted) !important;
 }
 
+
 /* ---- Fonts ---- */
 
 html body,
 html body.theme-light,
 html body.theme-dark {
-  --font-text: "Jacquard 12", "Roboto Mono", Georgia, "Times New Roman", serif;
-  --font-text-theme: "Jacquard 12", "Roboto Mono", Georgia, "Times New Roman", serif;
-  --font-interface: "Jacquard 12", system-ui, -apple-system, serif;
-  --font-monospace: ui-monospace, "Roboto Mono", Menlo, Consolas, monospace;
+  --font-heading: "Lora", Georgia, "Times New Roman", serif;
+  --font-monospace: "Your Font Name", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --font-text: var(--font-monospace);
+  --font-text-theme: var(--font-monospace);
+  --font-interface: "Inter", system-ui, -apple-system, sans-serif;
 }
 
-html body main.content,
-html body main.content :where(p, li, td, th, dt, dd, strong, em, h1, h2, h3, h4, h5, h6) {
+/* Post body: monospace */
+html body main.content {
+  font-family: var(--font-text);
+}
+html body main.content :where(p, li, td, th, dt, dd, strong, em) {
   font-family: var(--font-text) !important;
 }
 
-html body .navbar,
+/* Post titles and headings inside posts: serif */
+html body main.content :where(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-heading) !important;
+}
+
+/* Blog title in the navbar: serif */
+html body .navbar-inner h1 {
+  font-family: var(--font-heading) !important;
+}
+
+/* Small interface bits */
 html body .search-button,
 html body a.tag,
 html body .backlink-title {
