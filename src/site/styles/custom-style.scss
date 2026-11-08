@@ -1,1 +1,125 @@
+/* Palette: 364652 · 071108 · bfb1c1 · b5bec6 · c7dbe6 */
 
+:root,
+html body,
+html body.theme-light {
+  --background-primary: #c7dbe6;
+  --background-primary-alt: #b5bec6;
+  --background-secondary: #b5bec6;
+  --background-secondary-alt: #bfb1c1;
+  --text-normal: #071108;
+  --text-muted: #364652;
+  --text-faint: #364652;
+  --text-accent: #364652;
+  --text-accent-hover: #071108;
+  --link-color: #364652;
+  --link-color-hover: #071108;
+  --link-unresolved-color: #364652;
+  --interactive-normal: #b5bec6;
+  --interactive-hover: #bfb1c1;
+  --interactive-accent: #364652;
+  --interactive-accent-hover: #071108;
+}
+
+html body.theme-dark {
+  --background-primary: #071108;
+  --background-primary-alt: #364652;
+  --background-secondary: #364652;
+  --background-secondary-alt: #364652;
+  --text-normal: #c7dbe6;
+  --text-muted: #b5bec6;
+  --text-faint: #b5bec6;
+  --text-accent: #bfb1c1;
+  --text-accent-hover: #c7dbe6;
+  --link-color: #bfb1c1;
+  --link-color-hover: #c7dbe6;
+  --link-unresolved-color: #bfb1c1;
+  --interactive-normal: #364652;
+  --interactive-hover: #bfb1c1;
+  --interactive-accent: #bfb1c1;
+  --interactive-accent-hover: #c7dbe6;
+}
+
+/* Direct rules, in case the template hardcodes colors */
+html body {
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+  font-family: Georgia, "Times New Roman", serif;
+  --dg-content-max-width: 40rem;
+  --dg-content-font-size: 17px;
+  --dg-content-line-height: 1.7;
+}
+
+html body a {
+  color: var(--link-color);
+  text-decoration: underline;
+  text-decoration-color: #bfb1c1;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+html body h1,
+html body h2,
+html body h3,
+html body h4,
+html body h5,
+html body h6 {
+  color: var(--text-normal);
+}
+
+html body blockquote {
+  border-left: 3px solid #bfb1c1;
+  border-radius: 0;
+  color: var(--text-muted);
+}
+
+html body code,
+html body pre {
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+}
+
+html body hr {
+  border-color: var(--background-secondary);
+}
+
+/* ---- Garden chrome (classes taken from the published page source) ---- */
+
+html body .navbar {
+  background-color: var(--background-primary);
+  border-bottom: 1px solid var(--background-secondary);
+  box-shadow: none;
+}
+
+html body .navbar-inner h1 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: var(--text-normal);
+}
+
+html body .search-button {
+  color: var(--text-muted);
+  border: 1px solid var(--background-secondary);
+  background: transparent;
+  border-radius: 6px;
+}
+
+html body a.tag {
+  display: inline-block;
+  padding: 0 0.6em;
+  border-radius: 999px;
+  background-color: var(--background-secondary-alt);
+  color: var(--text-normal);
+  font: 0.8rem/1.7 system-ui, sans-serif;
+  text-decoration: none;
+}
+
+html body .backlink-card {
+  background: transparent;
+  border: 1px solid var(--background-secondary);
+  border-radius: 6px;
+}
+
+html body .backlink-title {
+  color: var(--text-muted);
+}
