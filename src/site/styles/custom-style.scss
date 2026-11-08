@@ -32,12 +32,6 @@ body.theme-dark {
   --interactive-accent: var(--mauve);
 }
 
-[class*="filetree"],
-[class*="sidebar"],
-[class*="navbar"] {
-  background: transparent !important;
-  border: none !important;
- 
 body {
   background-color: var(--background-primary);
   color: var(--text-normal);
@@ -98,9 +92,3 @@ th {
 }
 
   
-
-.filetree-sidebar {
-  display: none !important;
-}
-
-
