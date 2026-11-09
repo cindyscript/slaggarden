@@ -10,12 +10,7 @@ a pile of rubble, /
 left in disrepair /
 yet it is something i cherish
 
-## INDEX
-
-[[art/performance art/restored behavior\|restored behavior]]
-[[aesthetics/aesthetics\|aesthetics]]
-[[literature\|literature]]
-[[brief thoughts and ramblings\|brief thoughts and ramblings]]
+go to the [[index\|index]]
 
 
 
