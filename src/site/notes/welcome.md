@@ -10,16 +10,16 @@ meaning of *slag garden*
 left in disrepair /
 yet it is something i cherish
 
+things i've written thus far
 
-##art overview
-this section covers art topics.
+art topics:
+- [[art/performance art/restored behavior\|restored behavior]]
 
-```dataview
-LIST
-FROM "art/performance art"
-WHERE dg-publish = true
-SORT file.mday DESC
-```
+{ .block-language-dataview}
 
+literature:
 
+thoughts:
+
+philosophy:
 
