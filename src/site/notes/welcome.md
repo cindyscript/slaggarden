@@ -6,9 +6,10 @@ hello and welcome to *the slag garden*. my name is Cindy and this is my digital 
 Check out more of my [[about me\|about me]]. 
 
 meaning of *slag garden*
-a pile of rubble, /
+>a pile of rubble, /
 left in disrepair /
 yet it is something i cherish
+
 
 
 

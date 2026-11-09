@@ -16,3 +16,5 @@ anyway this digital garden will comprise of my interests:
 - conflict, war, diplomacy
 
 take care of yourself. 
+
+go back to [[welcome\|welcome]]
