@@ -14,7 +14,12 @@ yet it is something i cherish
 ##art overview
 this section covers art topics.
 
-```dataview LIST FROM "Art" WHERE dg-publish = true AND file.name != this.file.name SORT file.name ASC ```
+```dataview
+LIST
+FROM "art/performance art"
+WHERE dg-publish = true
+SORT file.mday DESC
+```
 
 
 
