@@ -24,5 +24,9 @@ literature:
 
 thoughts:
 
+- [[brief thoughts and ramblings/🏺Labyrinth\|🏺Labyrinth]]
+
+{ .block-language-dataview}
+
 philosophy:
 
