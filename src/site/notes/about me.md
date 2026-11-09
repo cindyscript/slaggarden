@@ -3,7 +3,7 @@
 ---
 
 🌑hello, i'm Cindy
-or you can call my Cyn or C.
+or you can call me Cyn or C.
 
 this is my digital garden. i am trying to get away from social media.
 i had started with a regular old blog but that didn't work out because i have a hard time putting together my thoughts. i want to talk about everything!
