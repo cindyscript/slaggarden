@@ -10,8 +10,6 @@ a pile of rubble, /
 left in disrepair /
 yet it is something i cherish
 
-go to the [[index\|index]]
-
 
 
 
