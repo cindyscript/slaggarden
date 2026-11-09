@@ -3,7 +3,7 @@
 ---
 
 hello and welcome to *the slag garden*. my name is Cindy and this is my digital garden.
-Check out more of my about me. 
+Check out more of my [[about me\|about me]]. 
 
 meaning of *slag garden*
 a pile of rubble, /
