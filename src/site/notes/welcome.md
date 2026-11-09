@@ -18,6 +18,9 @@ art topics:
 { .block-language-dataview}
 
 literature:
+- [[literature/The Moviegoer by Walker Percy\|The Moviegoer by Walker Percy]]
+
+{ .block-language-dataview}
 
 thoughts:
 
