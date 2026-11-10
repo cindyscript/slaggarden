@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2026-11-08T13:06:06.266-05:00","updated":"2026-11-09T18:00:29.857-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2026-11-08T13:06:06.266-05:00","updated":"2026-11-09T19:29:26.205-05:00","dg-note-properties":{}}
 ---
 
 hello and welcome to *the slag garden*. my name is Cindy and this is my digital garden.
@@ -9,24 +9,3 @@ meaning of *slag garden*
 >a pile of rubble, /
 left in disrepair /
 yet it is something i cherish
-
-things i've written thus far
-
-art topics:
-- [[art/performance art/restored behavior\|restored behavior]]
-
-{ .block-language-dataview}
-
-literature:
-- [[literature/The Moviegoer by Walker Percy\|The Moviegoer by Walker Percy]]
-
-{ .block-language-dataview}
-
-thoughts:
-
-- [[brief thoughts and ramblings/🏺Labyrinth\|🏺Labyrinth]]
-
-{ .block-language-dataview}
-
-philosophy:
-
