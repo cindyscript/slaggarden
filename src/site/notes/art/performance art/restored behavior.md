@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art/performance-art/restored-behavior/","tags":["art","performanceart"],"noteIcon":"","created":"2026-11-08T19:16:41.710-05:00","dg-note-properties":{"tags":["art","performanceart"]}}
+{"dg-publish":true,"permalink":"/art/performance-art/restored-behavior/","tags":["art","performanceart"],"noteIcon":"","created":"2026-11-08T19:16:41.710-05:00","updated":"2026-11-08T19:33:46.029-05:00","dg-note-properties":{"tags":["art","performanceart"]}}
 ---
 
 *restored behavior* is a concept developed by richard schechner, an American theater director, author, and academic.

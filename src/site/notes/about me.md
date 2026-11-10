@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/","noteIcon":"","created":"2026-11-08T18:58:57.430-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/about-me/","noteIcon":"","created":"2026-11-08T18:58:57.430-05:00","updated":"2026-11-08T20:33:20.091-05:00","dg-note-properties":{}}
 ---
 
 🌑hello, i'm Cindy

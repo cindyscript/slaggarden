@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brief-thoughts-and-ramblings/labyrinth/","tags":["literature","myth"],"noteIcon":"","created":"2026-11-08T20:17:38.865-05:00","dg-note-properties":{"tags":["literature","myth"]}}
+{"dg-publish":true,"permalink":"/brief-thoughts-and-ramblings/labyrinth/","tags":["literature","myth"],"noteIcon":"","created":"2026-11-08T20:17:38.865-05:00","updated":"2026-11-09T17:59:05.989-05:00","dg-note-properties":{"tags":["literature","myth"]}}
 ---
 
 
