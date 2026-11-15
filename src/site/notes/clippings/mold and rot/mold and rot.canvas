@@ -1,0 +1,102 @@
+---
+{"dg-publish":true,"permalink":"/clippings/mold-and-rot/mold-and-rot.canvas/","contentClasses":"canvas-page","noteIcon":"","created":"2026-11-14T22:11:25.099-05:00","updated":"2026-11-14T22:15:32.137-05:00","dg-note-properties":{}}
+---
+
+<div id="mold_and_rotcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-mold_and_rotcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-mold_and_rotcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="80f5cbb2711e0203" style="transform: translate(-637px, -303px); width: 803px; height: 557px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/13_growth-decay-art.jpg" alt="13_growth-decay-art.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="1da4a9588bf32ec0" style="transform: translate(-237px, 249px); width: 400px; height: 311px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/8_mango-rotting-google-search.jpg" alt="8_mango-rotting-google-search.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="2ab715bdd0020f3e" style="transform: translate(133px, 303px); width: 400px; height: 267px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/10_rotting-orange.png" alt="10_rotting-orange.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="822663cf1396f6c0" style="transform: translate(128px, -303px); width: 805px; height: 604px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/14_water-damage-in-2025-how-to-kill-mold-mold-in-b....jpg" alt="14_water-damage-in-2025-how-to-kill-mold-mold-in-b....jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="9ad4828b197d3e99" style="transform: translate(531px, 227px); width: 667px; height: 667px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/4_penicillium-vulpinum-mold.jpg" alt="4_penicillium-vulpinum-mold.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="c33604fee3f21e26" style="transform: translate(-720px, 227px); width: 550px; height: 733px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/12_showing-mould-decay.jpg" alt="12_showing-mould-decay.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="186fcad653e3b525" style="transform: translate(-170px, 560px); width: 362px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/7_rotten-apple-13258722-webp.webp" alt="7_rotten-apple-13258722-webp.webp" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="e7b97d1cbd645fe1" style="transform: translate(131px, 560px); width: 400px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/9_rotting-sculptrues-contamination.png" alt="9_rotting-sculptrues-contamination.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ef644962cfe03899" style="transform: translate(900px, 594px); width: 400px; height: 267px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/6_mold-close-up.png" alt="6_mold-close-up.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="a5a191c7c5c9f1f3" style="transform: translate(900px, -173px); width: 334px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/3_mold.jpg" alt="3_mold.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="3785fce434cc10e6" style="transform: translate(1067px, 239px); width: 334px; height: 331px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/mold%20and%20rot/mold-rot/2_mold-fungi.png" alt="2_mold-fungi.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+	</div>
+</div>
