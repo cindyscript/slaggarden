@@ -1,0 +1,116 @@
+---
+{"dg-publish":true,"permalink":"/clippings/steel-mills/steel-mills-and-factories.canvas/","contentClasses":"canvas-page","noteIcon":"","created":"2026-11-14T21:58:36.852-05:00","updated":"2026-11-14T22:04:28.628-05:00","dg-note-properties":{}}
+---
+
+<div id="steel_mills_&_factoriescanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-steel_mills_&_factoriescanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-steel_mills_&_factoriescanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-text " data-node-id="4625ef77bdff5ee6" style="transform: translate(0px, -400px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown=""></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="b2a510e274e74bbb" style="transform: translate(-507px, -748px); width: 507px; height: 634px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/15_dsc_0589-jpg.jpg" alt="15_dsc_0589-jpg.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="66c47daad15e2480" style="transform: translate(-907px, -370px); width: 400px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/9_bonhams-aaron-henry-gorson-1872-1933-pittsburgh....jpg" alt="9_bonhams-aaron-henry-gorson-1872-1933-pittsburgh....jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="be4a6f93431ff688" style="transform: translate(-907px, -34px); width: 400px; height: 331px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/10_elsie-driggs-pittsburgh-1927.png" alt="10_elsie-driggs-pittsburgh-1927.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="4ec9a99f47027603" style="transform: translate(-907px, -698px); width: 400px; height: 384px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/11_charles-sheeler-old-abandoned-mill-1948.png" alt="11_charles-sheeler-old-abandoned-mill-1948.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="b5966d4920588215" style="transform: translate(-907px, 297px); width: 400px; height: 267px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/13_alleima_steelmill_2021_01_0127-2200x1467-jpg.jpg" alt="13_alleima_steelmill_2021_01_0127-2200x1467-jpg.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ac4559c372411526" style="transform: translate(-549px, 164px); width: 296px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/5_tom-dessine-et-compose.jpg" alt="5_tom-dessine-et-compose.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="3bd532b39c186a25" style="transform: translate(-507px, -236px); width: 320px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/3_464266924_932756518205009_807691606383506621_n-jpg.jpg" alt="3_464266924_932756518205009_807691606383506621_n-jpg.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ccf3d6694d2fdb23" style="transform: translate(-269px, 274px); width: 399px; height: 314px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/6_image-png.png" alt="6_image-png.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="57344b70b959b7a0" style="transform: translate(-253px, -103px); width: 294px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/4_miss-those-steel-mill-days_-png.png" alt="4_miss-those-steel-mill-days_-png.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="1695a2d30a26e7c8" style="transform: translate(21px, -126px); width: 299px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/7_9.jpg" alt="7_9.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="cd7dc445344e0aaa" style="transform: translate(130px, 188px); width: 300px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/8_image-png.png" alt="8_image-png.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="751a80f9f9a45222" style="transform: translate(0px, -640px); width: 421px; height: 526px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/clippings/steel%20mills/steel-mills-industrial/14_colorful-metal-roofed-industrial-buildings-line....jpg" alt="14_colorful-metal-roofed-industrial-buildings-line....jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+	</div>
+</div>
